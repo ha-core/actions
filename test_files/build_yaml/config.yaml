@@ -1,0 +1,11 @@
+---
+name: "Example App"
+slug: "example_app"
+description: "An example Home Assistant app"
+arch:
+  - aarch64
+  - armv7
+  - armhf
+  - amd64
+  - i386
+version: "1.0.0"
